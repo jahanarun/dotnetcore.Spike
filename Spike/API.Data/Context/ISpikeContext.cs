@@ -1,7 +1,7 @@
-﻿using API.Shared.Models;
+﻿using API.Data.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace API.Shared.Data
+namespace API.Data.Context
 {
     public interface ISpikeContext
     {

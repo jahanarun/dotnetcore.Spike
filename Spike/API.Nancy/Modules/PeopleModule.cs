@@ -1,5 +1,5 @@
-﻿using API.Shared.Data;
-using API.Shared.Models;
+﻿using API.Data.Context;
+using API.Data.Models;
 using Nancy;
 using Nancy.ModelBinding;
 using System;

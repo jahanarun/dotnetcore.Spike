@@ -1,5 +1,5 @@
 ﻿using System;
-namespace API.Shared.Models
+namespace API.Data.Models
 {
     public class People
     {
